@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensi untuk radius sudut tombol -->
+    <dimen name="button_corner_radius">16dp</dimen>
+
+    <!-- Dimensi untuk lebar dan tinggi gambar di tombol -->
+    <dimen name="button_image_width">150dp</dimen>
+    <dimen name="button_image_height">150dp</dimen>
+
+    <!-- Dimensi untuk padding di dalam tombol -->
+    <dimen name="button_interior_padding">8dp</dimen>
+
+    <!-- Dimensi untuk padding vertikal antara elemen -->
+    <dimen name="padding_vertical">16dp</dimen>
+</resources>
